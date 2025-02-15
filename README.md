@@ -1,90 +1,65 @@
-# Hi, I'm Mayank 👋
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm Mayank Kumar
+</h1>
 
-### Software Developer | Web Developer | Problem Solver
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Electrical+Engineer+%7C+Web+Developer;Java+%7C+Python+%7C+Cybersecurity+Enthusiast;Frontend+Project+Enthusiast+%7C+Problem+Solver" />
+</p>
 
-Welcome to my GitHub profile! I'm a passionate developer with expertise in **Web Development** and **Software Development**. I love building projects, solving problems, and learning new technologies. Here's a little about me:
+<!-- Social Links -->
+<p align="center">
+  <a href="https://github.com/your-github">
+    <img src="https://img.shields.io/badge/GitHub-Mayank-181717?style=for-the-badge&logo=github" alt="GitHub Badge">
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Mayank-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
+  </a>
+</p>
 
----
+<!-- About Section with Animation -->
+<h2 align="center">🚀 About Me</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
+<p align="center">
+  🔹 Electrical Engineer with a passion for Web Development.<br>
+  🔹 Skilled in Java, Python, Cybersecurity, and Frontend Development.<br>
+  🔹 Building projects to enhance my skills and contribute to open source.
+</p>
 
-## 🛠️ Skills
+<!-- Skills Section -->
+<h2 align="center">🛠️ Skills</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github" alt="Skills" />
+</p>
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" style="transition: transform 0.3s ease;"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" style="transition: transform 0.3s ease;"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" style="transition: transform 0.3s ease;"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" style="transition: transform 0.3s ease;"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" style="transition: transform 0.3s ease;"/>
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub" style="transition: transform 0.3s ease;"/>
-</div>
+<!-- Animated Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=radical" width="48%">
+</p>
 
-<style>
-  img:hover {
-    transform: scale(1.2);
-  }
-</style>
+<!-- Hover Effect Projects -->
+<h2 align="center">💼 Projects</h2>
+<p align="center">
+  <a href="https://github.com/your-github/spotify-clone" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify Clone-HTML%20%7C%20CSS-green?style=for-the-badge&logo=spotify" alt="Spotify Clone"/>
+  </a>
+  <a href="https://github.com/your-github/expense-tracker" target="_blank">
+    <img src="https://img.shields.io/badge/Expense Tracker-Java-orange?style=for-the-badge&logo=java" alt="Expense Tracker"/>
+  </a>
+</p>
 
----
-
-## 🚀 Projects
-
-Here are some of the projects I've worked on:
-
-### 1. Simon Says Game  
-A classic memory game built using **HTML, CSS, and JavaScript**.  
-[![Simon Says Game](https://img.shields.io/badge/Live_Demo-FF6F61?style=for-the-badge&logo=web&logoColor=white)](#)  
-[![GitHub Repository](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
-### 2. Personal Portfolio Page  
-A clean and responsive portfolio showcasing my skills and projects.  
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6F61?style=for-the-badge&logo=web&logoColor=white)](#)  
-[![GitHub Repository](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
-### 3. Java-Based Applications  
-Built various applications using **Java**, focusing on problem-solving and efficient algorithms.  
-[![GitHub Repository](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
----
-
-## 📚 Learning Journey
-
-I'm constantly learning and improving my skills. Currently, I'm focusing on:
-- Expanding my knowledge of **JavaScript frameworks** (e.g., React).
-- Exploring **back-end development** with Node.js and databases.
-- Practicing **Data Structures and Algorithms** to enhance my problem-solving abilities.
-
----
-
-## 🌟 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px;"/>
-</div>
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to collaborating on interesting projects or discussing new opportunities. Feel free to reach out:
-
-<div align="center" style="display: flex; gap: 10px;">
+<!-- Contact Me Section -->
+<h2 align="center">📬 Contact Me</h2>
+<p align="center">
   <a href="mailto:your.email@example.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" title="Email" style="transition: transform 0.3s ease;"/>
+    <img src="https://img.shields.io/badge/Email-Mayank-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub" style="transition: transform 0.3s ease;"/>
-  </a>
-</div>
+</p>
 
-<style>
-  a img:hover {
-    transform: scale(1.2);
-  }
-</style>
-
----
-
-⭐️ Thanks for visiting my profile! Have a great day! 😄
+<!-- Footer -->
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="300">
+</p>
