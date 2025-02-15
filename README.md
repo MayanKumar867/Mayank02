@@ -8,14 +8,20 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in **Web
 
 ## 🛠️ Skills
 
-<div align="center">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub"/>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" style="transition: transform 0.3s ease;"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" style="transition: transform 0.3s ease;"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" style="transition: transform 0.3s ease;"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" style="transition: transform 0.3s ease;"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" style="transition: transform 0.3s ease;"/>
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub" style="transition: transform 0.3s ease;"/>
 </div>
+
+<style>
+  img:hover {
+    transform: scale(1.2);
+  }
+</style>
 
 ---
 
@@ -51,8 +57,8 @@ I'm constantly learning and improving my skills. Currently, I'm focusing on:
 ## 🌟 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px;"/>
 </div>
 
 ---
@@ -61,17 +67,23 @@ I'm constantly learning and improving my skills. Currently, I'm focusing on:
 
 I'm always open to collaborating on interesting projects or discussing new opportunities. Feel free to reach out:
 
-<div align="center">
+<div align="center" style="display: flex; gap: 10px;">
   <a href="mailto:your.email@example.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" title="Email"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" title="Email" style="transition: transform 0.3s ease;"/>
   </a>
   <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" style="transition: transform 0.3s ease;"/>
   </a>
   <a href="https://github.com/yourusername">
-    <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub"/>
+    <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub" style="transition: transform 0.3s ease;"/>
   </a>
 </div>
+
+<style>
+  a img:hover {
+    transform: scale(1.2);
+  }
+</style>
 
 ---
 
