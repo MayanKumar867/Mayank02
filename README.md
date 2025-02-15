@@ -1,3 +1,4 @@
+<!-- Animated GitHub README -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm Mayank Kumar
 </h1>
@@ -13,6 +14,12 @@
   </a>
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-Mayank-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
+  </a>
+  <a href="https://instagram.com/your-instagram">
+    <img src="https://img.shields.io/badge/Instagram-Mayank-E4405F?style=for-the-badge&logo=instagram" alt="Instagram Badge">
+  </a>
+  <a href="https://www.buymeacoffee.com/your-coffee">
+    <img src="https://img.shields.io/badge/Buy Me a Coffee-Mayank-FFDD00?style=for-the-badge&logo=buymeacoffee" alt="Buy Me a Coffee Badge">
   </a>
 </p>
 
